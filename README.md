@@ -1,4 +1,8 @@
-# Paradise Nursery — E-Plant Shopping
+# e-plantShopping
+
+**Paradise Nursery — E-Plant Shopping**
+
+> Repository: **e-plantShopping**
 
 A single-page plant shopping cart application for **Paradise Nursery**, _"Where Green Meets Serenity."_ Browse a catalog of houseplants organized by category, add them to a cart, and manage quantities — all powered by React and Redux Toolkit.
 
